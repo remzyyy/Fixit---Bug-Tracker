@@ -6,7 +6,7 @@ Fixit is a web-based application designed to help developers and teams manage pr
 
 ## 🚀 Live Link
 
-🌐 [View Frontend (GitHub Pages)](https://purvallll.github.io/fixora-frontend/)
+🌐 [View Frontend (GitHub Pages)](https://github.com/remzyyy/Fixit---Bug-Tracker)
 
 ---
 
